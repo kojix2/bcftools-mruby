@@ -4,3 +4,6 @@
 [submodule "bcftools"]
 	path = bcftools
 	url = https://github.com/kojix2/bcftools
+[submodule "htslib"]
+	path = htslib
+	url = https://github.com/kojix2/htslib

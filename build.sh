@@ -10,4 +10,4 @@ autoreconf -i
 ./configure
 make
 
-# ./bcftools tanuki
+./bcftools tanuki

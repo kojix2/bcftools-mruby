@@ -1,6 +1,6 @@
 [submodule "mruby"]
 	path = mruby
-	url = https://github.com/kojix2/mruby
+	url = https://github.com/mruby/mruby
 [submodule "bcftools"]
 	path = bcftools
 	url = https://github.com/kojix2/bcftools

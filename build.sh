@@ -12,11 +12,13 @@ cd htslib
 autoreconf -i
 ./configure
 make
+cd ..
 
 # bcftools
 cd bcftools
 autoreconf -i
 ./configure
 make
+cd ..
 
-./bcftools tanuki
+bcftools/bcftools tanuki

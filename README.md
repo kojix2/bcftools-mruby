@@ -1,6 +1,4 @@
-# samtools-tanuki
-
-ビーシーエフツールズ・タヌキ
+# samtools-mruby
 
 [![build](https://github.com/kojix2/bcftools-tanuki/actions/workflows/build.yml/badge.svg)](https://github.com/kojix2/bcftools-tanuki/actions/workflows/build.yml)
 

@@ -20,7 +20,8 @@ bcftools/bcftools tanuki # check if it works
 　 　 し　ｌ　 x　）J
 　　　_.'､ ヽ　 ノ.人
 　(_((__,ノＵ´U. (酒)
- tanuki in bcftools
+
+　Tanuki in mruby (3.3.0)
 ```
 
 [Rake](https://github.com/ruby/rake) is required to build mruby.

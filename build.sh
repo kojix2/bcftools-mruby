@@ -11,14 +11,14 @@ CONFIG=./mruby_build_config.rb rake -f mruby/Rakefile
 cd htslib
 autoreconf -i
 ./configure
-make
+make -j 4
 cd ..
 
 # bcftools
 cd bcftools
 autoreconf -i
 ./configure
-make
+make -j 4
 cd ..
 
 bcftools/bcftools tanuki

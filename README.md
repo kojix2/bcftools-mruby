@@ -7,8 +7,8 @@ Use [mruby](https://github.com/mruby/mruby) to evaluate expressions.
 ## Installation
 
 ```
-git clone --recurse-submodules https://github.com/kojix2/bcftools-mruby
-./build.sh
+git clone https://github.com/kojix2/bcftools-mruby
+make
 bcftools/bcftools tanuki # check if it works
 ```
 

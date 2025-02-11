@@ -15,7 +15,7 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "ruby"
-      - name: Install curl-dev (ubuntu)
+      - name: Install dependencies (ubuntu)
         if: ${{ matrix.os == 'ubuntu' }}
         run: sudo apt update -yq && sudo apt-get install -y autoconf automake make gcc perl zlib1g-dev libbz2-dev liblzma-dev libcurl4-openssl-dev libssl-dev libdeflate-dev
       - name: Install autotools (macos)
